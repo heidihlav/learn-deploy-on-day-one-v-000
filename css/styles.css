@@ -164,11 +164,11 @@ a:visited {
 }
 
 #heidi-hlavinka-card {
-  image: url("//imgur.com/9OGPtJM");
+  background-image: url("//imgur.com/9OGPtJM");
 }
 
 #heidi-hlavinka-cover {
-  image: url("//imgur.com/dpb8f8I");
+  background-image: url("//imgur.com/dpb8f8I");
 }
 
 
